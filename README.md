@@ -6,9 +6,8 @@
 <p>password</p>
 
 <h3>Artisan command for refreshing table from live data: </h3>
-```
-php artisan refresh
-```
+
+<p>php artisan refresh</p>
 
 <p>*You may need to update your .env for your local environment</p>
 
